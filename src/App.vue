@@ -57,6 +57,7 @@ const getLocation = () => {
 </script>
 
 <template>
+  第二次修改
   <!-- <button @click="getLoction">获取位置信息</button> -->
   <div>
     <button @click="get">获取位置信息</button>
