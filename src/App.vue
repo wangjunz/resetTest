@@ -58,6 +58,7 @@ const getLocation = () => {
 
 <template>
   <p>撤回测试第一次</p>
+  222222
   <!-- <button @click="getLoction">获取位置信息</button> -->
   <div>
     <button @click="get">获取位置信息</button>
